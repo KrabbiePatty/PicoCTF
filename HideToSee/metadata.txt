@@ -1,0 +1,87 @@
+Image:
+  Filename: atbash.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 465x455+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 211575
+    Red:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 206.818 (0.811052)
+      standard deviation: 72.7713 (0.285378)
+      kurtosis: 0.683567
+      skewness: -1.44524
+      entropy: 0.734445
+    Green:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 201.774 (0.791272)
+      standard deviation: 72.4056 (0.283943)
+      kurtosis: 0.463971
+      skewness: -1.34232
+      entropy: 0.780242
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 185.223 (0.726363)
+      standard deviation: 78.912 (0.309459)
+      kurtosis: -0.670541
+      skewness: -0.800523
+      entropy: 0.798408
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 197.938 (0.776229)
+      standard deviation: 74.6963 (0.292927)
+      kurtosis: 0.00608021
+      skewness: -1.16791
+      entropy: 0.771032
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 465x455+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 80
+  Orientation: Undefined
+  Properties:
+    date:create: 2023-03-15T02:35:09+00:00
+    date:modify: 2023-03-15T02:34:04+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: 33a4ee23d5349b2967c73293c7d99c893c7281774a87ebc60ddd9199a8bc856b
+  Artifacts:
+    filename: atbash.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 51512B
+  Number pixels: 211575
+  Pixels per second: 65.8935MB
+  User time: 0.000u
+  Elapsed time: 0:01.003
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
